@@ -1,0 +1,25 @@
+{
+    "remotePath": "/root/alirin-report",
+    "host": "167.99.75.26",
+    "username": "root",
+    "password": "wskurniawan",
+    "port": 22,
+    "secure": true,
+    "protocol": "sftp",
+    "uploadOnSave": false,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": null,
+    "passphrase": null,
+    "ignore": [
+        "\\.vscode",
+        "\\.git",
+        "\\.DS_Store",
+        "node_modules"
+    ],
+    "generatedFiles": {
+        "uploadOnSave": false,
+        "extensionsToInclude": [],
+        "path": "/root/alirin-report"
+    }
+}

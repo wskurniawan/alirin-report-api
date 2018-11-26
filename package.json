@@ -1,0 +1,28 @@
+{
+  "name": "alirin-report-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js",
+    "nodemon": "nodemon main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wskurniawan/alirin-report-api.git"
+  },
+  "author": "WS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wskurniawan/alirin-report-api/issues"
+  },
+  "homepage": "https://github.com/wskurniawan/alirin-report-api#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "firebase-admin": "^6.2.0",
+    "joi": "^14.3.0",
+    "mongoose": "^5.3.13"
+  }
+}
